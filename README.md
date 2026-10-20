@@ -2,7 +2,7 @@
 
 **Автор:** Строколист Дмитрий Андреевич
 **Группа:** 3ИП-1-11-24
-**GitHub:** dimasik30001@gmail/com
+**GitHub:** DimaStrokolist
 **Репозиторий:** https://github.com/DimaStrokolist/up02-project-Strokolist
 **Дата:** 19.10.2026
 

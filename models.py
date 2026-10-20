@@ -6,6 +6,10 @@ from discount import calculate_price_with_discount
 class Product:
     """Класс Товар."""
 
+    def discounted_price(self):
+        """Цена со скидкой 25% (упрощённо)."""
+        return self.price * 0.75
+
     def __init__(self, product_id, name, genre, price, quantity):
         self.id = product_id
         self.name = name

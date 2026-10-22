@@ -11,6 +11,10 @@ class Product:
 
         return self.price * 0.75
 
+    def is_available(self):
+        """Товар доступен для заказа?"""
+        return self.quantity > 0
+
     def __init__(self, product_id, name, genre, price, quantity):
         self.id = product_id
         self.name = name
